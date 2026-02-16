@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Lumière",
+  "base_artist": "リュー・リオン(CV:早見沙織)",
+  "createdAt": "2026-02-16T18:15:22.394387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Son et Lumiere",
+      "artist": "The Mars Volta",
+      "has_synced": true,
+      "path": "select/01_Son_et_Lumiere_The_Mars_Volta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Son et Lumiere",
+      "artist": "The Mars Volta",
+      "has_synced": true,
+      "path": "select/02_Son_et_Lumiere_The_Mars_Volta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Percées De Lumière",
+      "artist": "Alcest",
+      "has_synced": true,
+      "path": "select/03_Percées_De_Lumière_Alcest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Une Annee Sans Lumiere",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/04_Une_Annee_Sans_Lumiere_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(La ville) lumière",
+      "artist": "Lene",
+      "has_synced": false,
+      "path": "select/05_(La_ville)_lumière_Lene.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Percées de lumière",
+      "artist": "Alcest",
+      "has_synced": false,
+      "path": "select/06_Percées_de_lumière_Alcest.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La lumière ou la rage",
+      "artist": "Claudio Capéo",
+      "has_synced": true,
+      "path": "select/07_La_lumière_ou_la_rage_Claudio_Capéo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ma lumière",
+      "artist": "Amir",
+      "has_synced": true,
+      "path": "select/08_Ma_lumière_Amir.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Epilogue: la lumière",
+      "artist": "Claude-Michel Schönberg",
+      "has_synced": false,
+      "path": "select/09_Epilogue__la_lumière_Claude-Michel_Schönberg.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lumière",
+      "artist": "Camille",
+      "has_synced": false,
+      "path": "select/10_Lumière_Camille.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "L'ombre et la lumière",
+      "artist": "Coralie Clément",
+      "has_synced": false,
+      "path": "select/11_L'ombre_et_la_lumière_Coralie_Clément.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hide Your Heart (feat. Eric Lumiere) [Club Mix]",
+      "artist": "Ben Gold feat. Eric Lumiere",
+      "has_synced": true,
+      "path": "select/12_Hide_Your_Heart_(feat._Eric_Lumiere)_[Club_Mix]_Ben_Gold_feat._Eric_Lumiere.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Une AnnÃ©e Sans Lumiere",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/13_Une_AnnÃ©e_Sans_Lumiere_Arcade_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lumière",
+      "artist": "リュー・リオン(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/pl_01_Lumière_リュー・リオン(CV_早見沙織).txt"
+    }
+  ]
+}
